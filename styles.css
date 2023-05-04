@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+.main {
+    width: 200px;
+    border-left: 5px solid green;
+    background-color: purple;
+    padding: 10px;
+  }
+  
+  .main .heading {
+    
+    padding-left: 10px;
+    color: white;
+  }
+  
+  .main .heading h1 {
+    font-size: 20px;
+    text-decoration: underline;
+  }
